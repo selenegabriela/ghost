@@ -92,21 +92,7 @@ ONEUP_STR = str_to_sprite('''
 
 
 IMAGES = {
-  'kitty': KITTY,
-  'oneup': ONEUP,
-  'oneup2': ONEUP2,
-  'hackerschool': HACKERSCHOOL,
-  'octocat': OCTOCAT,
-  'octocat2': OCTOCAT2,
-  'hello': HELLO,
-  'heart1': HEART1,
-  'heart2': HEART2,
-  'hireme': HIREME,
-  'oneup_str': ONEUP_STR,
-  'beer': BEER,
-  'gliders': GLIDERS,
-  'heart' : HEART, 
-  'heart_shiny' : HEART_SHINY,
+  'kitty': KITTY
 }
 
 SHELLS = {
